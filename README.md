@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🎾 테니스
 - ⚙️ 테크니컬한 모든 것
 - 🛫 여행
+- ☕ 커피
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
