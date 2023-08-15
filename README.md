@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=프론트엔드%20개발자&height=150&fontSize=60&desc=최강재&descAlignY=80&descAlign=72)
+
 # 안녕하세요! 🙋🏻‍♂️
-## 🛠️ 프론트엔드 개발자.
+## 🛠️ 저는요...
 - 저는 현재 대한민국, 서울에서 프론트엔드 개발자로 일하고 있습니다.
 - 과거 고등학생 시절에는 "기능경기대회"에 참가하는 선수로 활동했었습니다.
 - 고등학교 졸업 후에는 바로 취업을 하여 현재까지 3년째 프론트엔드 개발자로 일하고 있습니다.
