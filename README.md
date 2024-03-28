@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a href="https://www.kangjae.dev">
     <img alt="Blog Badge" src="https://img.shields.io/badge/Tech%20Blog-%23F47D31?logo=headspace&logoColor=%23ffffff">
   </a>
-  <a href="https://www.instagram.com/kka_ng__">
+  <a href="https://www.instagram.com/kangjae.choi">
     <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=%23ffffff">
   </a>
   <a href="https://www.linkedin.com/in/kangjae-choi-15898925a/">
