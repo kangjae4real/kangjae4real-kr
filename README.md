@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/kangjae.choi">
     <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=%23ffffff">
   </a>
-  <a href="https://www.linkedin.com/in/kangjae-choi-15898925a/">
+  <a href="https://www.linkedin.com/in/kangjae-choi">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=LinkedIn&logoColor=%23ffffff">
   </a>
   <a href="mailto:awpe89@gmail.com">
