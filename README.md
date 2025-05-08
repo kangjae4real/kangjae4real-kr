@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🤔 저는요 ...
 - 저는 현재 대한민국, 서울에서 프론트엔드 개발자로 일하고 있습니다.
 - 과거 고등학생 시절에는 "기능경기대회"에 참가하는 선수로 활동했었습니다.
-- 고등학교 졸업 후에는 바로 취업을 하여 현재까지 4년째 프론트엔드 개발자로 일하고 있습니다.
+- 고등학교 졸업 후에는 바로 취업을 하여 현재까지 5년째 프론트엔드 개발자로 일하고 있습니다.
 - 취미생활 겸 용돈벌이로 외주도 하고 있습니다.
 
 ## 🔭 제가 관심있는 것은 ...
@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 - ☕ 커피
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangjae4real%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-  <br />
   <a href="https://www.instagram.com/kangjae.choi">
     <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=%23ffffff">
   </a>
