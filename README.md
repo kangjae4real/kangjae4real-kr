@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=프론트엔드%20개발자&height=150&fontSize=60&desc=최강재&descAlignY=80&descAlign=72)
 
 ## 🤔 저는요 ...
-- 저는 현재 대한민국, 서울에서 프론트엔드 개발자로 일하고 있습니다.
-- 과거 고등학생 시절에는 "기능경기대회"에 참가하는 선수로 활동했었습니다.
-- 고등학교 졸업 후에는 바로 취업을 하여 현재까지 5년째 프론트엔드 개발자로 일하고 있습니다.
-- 취미생활 겸 용돈벌이로 외주도 하고 있습니다.
+- 현재 대한민국, 서울에서 프론트엔드 개발자로 일하고 있습니다.
+- 현재 숭실대학교에서 디지털미디어를 전공하고 있습니다.
 
 ## 🔭 제가 관심있는 것은 ...
 - 🎲 게임
