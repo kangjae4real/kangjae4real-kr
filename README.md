@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=프론트엔드%20개발자&height=150&fontSize=60&desc=최강재&descAlignY=80&descAlign=72)
 
 ## 🤔 저는요 ...
-- 현재 대한민국, 서울에서 프론트엔드 개발자로 일하고 있습니다.
+- 대한민국, 서울에서 프론트엔드 개발자로 일한 경험(5년)이 있습니다.
 - 현재 숭실대학교에서 디지털미디어를 전공하고 있습니다.
 
 ## 🔭 제가 관심있는 것은 ...
